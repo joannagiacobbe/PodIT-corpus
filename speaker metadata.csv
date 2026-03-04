@@ -1,0 +1,224 @@
+ref_ID;name;age;gender;profession;origin;nativeness;host_guest
+art_01;Alma Manera;47;female;singer;Lazio;yes;host
+art_01;Corrado Veneziano;66;male;painter;Basilicata;yes;guest
+art_02;Francesca Anita Gigli;30;female;content creator;Lombardia;yes;host
+art_03;Laura Colantonio;;female;creative writer;Lombardia;yes;host
+art_03;Giorgio Fasol;96;male;collector;Veneto;yes;guest
+art_04;Luca Bellinzona;;male;content creator;Lombardia;yes;host
+art_05;Raffaella Arpiani;54;female;copywriter;Emilia-Romagna;yes;host
+art_06;Silvia Tiritiello;;female;content creator;;yes;host
+art_06;Cristian Tosato;;male;;;yes;guest
+art_07;Gianluca Gazzoli;34;male;radio host;Lombardia;yes;host
+art_07;Elisa Copeta;;female;author;Lombardia;yes;host
+art_07;Valentina Buzzi;;female;art curator;;yes;guest
+art_08;Valerio Terraroli;66;male;professor;Emilia-Romagna;yes;host
+art_09;Fabrizio Foresio;;male;content creator;;yes;host
+art_10;Anna Fornaciari;;female;blogger;;yes;host
+art_10;Anastasia Fontanesi;;female;copywriter;;yes;host
+art_10;Arda Lelo;;female;architect;;yes;guest
+art_11;Michela Giraud;35;female;actor;Lazio;yes;host
+art_11;Maria Onori;;female;;;yes;host
+art_11;Caterina Volpi;;female;professor;;yes;guest
+chat_01;Marta Daddato;23;female;singer;Lazio;yes;host
+chat_02;Valentina Ferragni;33;female;influencer;Lombardia;yes;host
+chat_02;Michele Bravi;31;male;singer;Umbria;yes;guest
+chat_03;Valentina Lonati;;female;author;Lombardia;yes;host
+chat_03;Marianna Mammone;25;female;singer;Campania;yes;guest
+chat_04;Rocco Toniolo;30;male;influencer;Veneto;yes;host
+chat_04;Lorenzo Guarnera;26;male;influencer;Lombardia;yes;host
+chat_05;Giulia Torelli;38;female;content creator;Emilia-Romagna;yes;host
+chat_05;Claudio Pavese;28;male;radio host;Puglia;yes;host
+chat_06;Noemi Vendramin;;female;;;yes;host
+chat_06;Valentina Vecchi;;female;;Lombardia;yes;host
+chat_07;Sissi Guida;28;female;content creator;;yes;host
+chat_08;Camilla Boniardi;35;female;content creator;Lombardia;yes;host
+chat_08;Alice Venturi;34;female;content creator;Toscana;yes;host
+chat_09;Giulia Salemi;32;female;tv host;Emilia-Romagna;yes;host
+chat_09;Francesca Michielin;30;female;singer;Veneto;yes;guest
+chat_10;Chiara Casadei;24;female;content creator;Lombardia;yes;host
+chat_11;Gioele Arreghini;21;male;content creator;;yes;host
+chat_12;Francesca Biella;24;female;content creator;;yes;host
+chat_12;Andrea De Filippi;24;male;singer;Liguria;yes;guest
+chat_13;Alessia Lanza;24;female;content creator;Piemonte;yes;host
+chat_13;Rosalba Pippa;42;female;singer;Liguria;yes;guest
+chat_14;Alessia Lanza;24;female;content creator;Piemonte;yes;host
+chat_15;Rosalba Pippa;42;female;singer;Liguria;yes;guest
+crime_01;Elisa De Marco;36;female;content creator;Piemonte;yes;host
+crime_02;Marco Maisano;36;male;journalist;Calabria;yes;host
+crime_02;Edoardo Orlandi;37;male;lawyer;Toscana;yes;host
+crime_03;;;female;;;yes;host
+crime_04;Alessandro;;male;lawyer;;yes;host
+crime_05;Flavia Piccinni;38;female;writer;Puglia;yes;host
+crime_05;Carmine Gazzanni;35;male;journalist;Liguria;yes;host
+crime_06;Marica Esposito;;female;;;yes;host
+crime_07;Luca Pallavidino;;male;content creator;Lombardia;yes;host
+crime_08;Massimiliano Jattoni Dall'Asén;;male;journalist;;yes;host
+crime_09;Camilla Mozzetti;37;female;reporter;Lazio;yes;host
+crime_09;Giampietro Lago;58;male;general;Emilia-Romagna;yes;guest
+crime_10;Selvaggia Lucarelli;50;female;journalist;Lazio;yes;host
+crime_11;Luca Mastinu;42;male;journalist;;yes;host
+crime_12;Fabio Sanvitale;59;male;journalist;;yes;host
+cult_01;Mariella Martucci;48;female;writer;Calabria;yes;host
+cult_02;David Riondino;73;male;songwriter;Toscana;yes;host
+cult_02;Davide Rondoni;62;male;poet;Emilia-Romagna;yes;host
+cult_03;Pietro Minto;37;male;journalist;Veneto;yes;host
+cult_03;Luca Travaglini;;male;CEO;;yes;guest
+cult_04;Arty;;male;;;yes;host
+cult_04;Cannella;;female;;;yes;host
+cult_05;Chiara Tagliaferri;;female;writer;Emilia-Romagna;yes;host
+cult_05;Diego Passoni;48;male;radio host;Lombardia;yes;host
+cult_06;Daniela Collu;42;female;radio host;Lazio;yes;host
+cult_06;Giuseppe Lavenia;;male;psychologist;;yes;guest
+cult_07;;;female;;;yes;host
+cult_08;Giorgio Immesi;38;male;content creator;Sicilia;yes;host
+cult_08;Alessandro Prazzoli;39;male;content creator;Lombardia;yes;host
+cult_08;Cathy La Torre;45;non-binary;lawyer;Sicilia;yes;guest
+cult_09;Riccardo Dal Ferro;38;male;philosopher;Veneto;yes;host
+cult_10;Cristina Di Canio;38;female;bookseller;Lombardia;yes;host
+cult_10;Angelica Sciacca;;female;bookseller;;yes;guest
+cult_11;Vera Gheno;49;female;linguist;Hungary;yes;host
+cult_12;Bianca de Divitiis;;female;professor;;yes;guest
+cult_13;Alice;21;female;radio host;Lombardia;yes;host
+cult_13;Viola Craig;21;female;radio host;Lombardia;yes;host
+cult_13;Nina;21;female;radio host;Lombardia;yes;host
+econ_01;Riccardo Spada;;male;podcaster;;yes;host
+econ_01;Anna Vinci;;female;legal expert;;yes;guest
+econ_02;Giacomo Saver;;male;financial counselor;;yes;host
+econ_03;Mia Ceran;36;female;journalist;Germany;yes;host
+econ_03;Yuri Giuliani;;male;investment vice president;Toscana;yes;guest
+econ_04;Massimo Cirri;66;male;radio host;Toscana;yes;host
+econ_04;Francesca Coin;;female;sociologist;;yes;guest
+econ_05;Jacopo Scarabello;;male;auditor;;yes;host
+econ_06;Marco Capponi;30;male;journalist;Marche;yes;host
+econ_06;Andrea Boeris;33;male;journalist;Liguria;yes;guest
+econ_07;Guido Maria Brera;56;male;writer;Lazio;yes;host
+econ_07;Raffaele Coriglione;;male;finance expert;;yes;host
+econ_08;Marco lo Conte;;male;multimedia expert;;yes;host
+econ_08;Vito Lops;;male;journalist;;yes;guest
+econ_09;Francesco Carlà;60;male;entrepreneur;Puglia;yes;host
+econ_09;Lodovico Carlà;27;male;finance expert;;yes;host
+econ_10;Maurizio Mapelli;;male;financial counselor;;yes;host
+econ_11;Davide Berti;;male;financial counselor;;yes;host
+film_01;Sebastiano Orgnacco;;male;;;yes;host
+film_01;Furio reini;;male;writer;;yes;host
+film_02;Davide Zagnoli;;male;screenwriter;;yes;host
+film_02;Michela Gorini;36;female;director;;yes;host
+film_03;Gabriele Niola;;male;journalist;;yes;host
+film_03;Bianca Ferrari;29;female;film critic;Emilia-Romagna;yes;host
+film_04;Matteo Vitelli;;male;podcaster;;yes;host
+film_05;Andrea Chimento;40;male;journalist;Lombardia;yes;host
+film_05;Simone Spoladori;;male;communication expert;Lombardia;yes;host
+film_06;Gioele Sasso;;male;youtuber;;yes;host
+film_07;Lucrezia Borgia;;female;youtuber;;yes;host
+film_08;Diego Castelli;42;male;writer;Lombardia;yes;host
+film_09;Ilaria Mencarelli;37;female;social media manager;Marche;yes;host
+film_09;Giuseppe Pastore;40;male;journalist;Puglia;yes;host
+film_10;Gianluca Gallizioli;;male;youtuber;;yes;host
+film_10;Marta Capossela;31;female;director;Campania;yes;guest
+film_11;Alessia Galatini;;female;screenwriter;;yes;host
+film_11;Elena Carraro;;female;psychologist;;yes;host
+film_12;Sara Stefanizzi;;female;content creator;;yes;host
+film_13;Chiara;;female;;;yes;host
+film_13;Chiara;;female;;;yes;host
+music_01;Martina Ricca;27;female;art director;Lazio;yes;host
+music_01;Alice Berardi;28;female;sociologist;Lazio;yes;host
+music_02;Filippo Ruggieri;31;male;writer;Abruzzo;yes;host
+music_03;Lorenzo Ciofani;32;male;journalist;Abruzzo;yes;host
+music_04;Carlo Sampaolesi;24;male;musician;Marche;yes;host
+music_04;Gioele Balestrini;25;male;musician;Marche;yes;host
+music_04;Clara Iannotta;38;female;composer;Lazio;yes;guest
+music_05;Laura Boni;;female;;;yes;host
+music_05;Alberto Muraro;;male;;;yes;host
+music_05;Roberta Marcianò;;female;;;yes;host
+music_06;;;male;;;yes;host
+music_07;John Vignola;57;male;journalist;Liguria;yes;host
+music_08;Gufo;;male;;;yes;host
+music_09;Ilaria Castellazzi;;female;musicologist;;yes;host
+music_10;Corrado Augias;88;male;journalist;Lazio;yes;host
+music_10;Aurelio Canonici;58;male;conductor;Liguria;yes;host
+music_11;Jacopo Morroni;34;male;radio host;;yes;host
+pol_01;Alessandro Di Battista;48;male;politician;Lazio;yes;host
+pol_02;Pippo Civati;49;male;politician;Lombardia;yes;host
+pol_02;Laura Campiglio;;female;writer;;yes;host
+pol_02;Luciano Canfora;82;male;filologist;Puglia;yes;guest
+pol_03;Silvia Boccardi;35;female;journalist;;yes;host
+pol_03;Francesco Rocchetti;;male;ispi secretary;;yes;host
+pol_03;Irene Panozzo;49;female;political analyst;Friuli-Venezia Giulia;yes;guest
+pol_04;Davide Leo;;male;journalist;;yes;host
+pol_04;Federico Gonzato;;male;journalist;;yes;host
+pol_05;Valerio Nicolosi;41;male;journalist;Lazio;yes;host
+pol_05;Francesca Albanese;48;female;legal expert;Campania;yes;guest
+pol_06;Maria Carfagna;;female;writer;;yes;host
+pol_06;Valerio Renzi;;male;journalist;;yes;guest
+pol_07;Carmine Abate;71;male;journalist;Calabria;yes;host
+pol_07;Roberto Vannacci;57;male;general;Liguria;yes;guest
+pol_08;Daniele Capezzone;52;male;journalist;Lazio;yes;host
+pol_09;Cecilia Sala;31;female;journalist;Lazio;yes;host
+pol_10;Silvia D'Onghia;;female;journalist;Puglia;yes;host
+pol_10;Francesco Vignarca;52;male;author;Lombardia;yes;guest
+pol_11;Vittoria Baldino;37;female;politician;Calabria;yes;host
+sport_01;Vanessa Villa;;female;athlete;Emilia-Romagna;yes;host
+sport_01;Terryana D'Onofrio;28;female;athlete;Basilicata;yes;guest
+sport_02;Simone Eterno;;male;journalist;Toscana;yes;host
+sport_02;Jacopo Lo Monaco;52;male;journalist;Lombardia;yes;host
+sport_02;Roberta Vinci;;female;commentator;Puglia;yes;guest
+sport_03;Matteo Serra;32;male;journalist;Lombardia;yes;host
+sport_04;Andrea Pirrera;24;male;content creator;;yes;host
+sport_04;Damiano Coccia;36;male;influencer;Lazio;yes;host
+sport_04;Francesco Di Giovambattista;;male;commentator;;yes;host
+sport_05;Chiara Soldi;;female;journalist;;yes;host
+sport_05;Arianna Fontana;35;female;athlete;Lombardia;yes;guest
+sport_06;Alessio;;male;;;yes;host
+sport_06;Angelo;;male;;;yes;host
+sport_06;Giacomo;;male;;;yes;host
+sport_07;;;female;;;yes;host
+sport_08;;;male;radio host;;yes;host
+sport_08;Myriam Sylla;30;female;athlete;Sicilia;yes;guest
+sport_09;Antonio Raimondi;62;male;journalist;;yes;host
+sport_09;Vittorio Munari;74;male;ex-athlete;Veneto;yes;host
+sport_10;Jacopo Pozzi;39;male;journalist;Lombardia;yes;host
+sport_10;Federica Pellegrini;38;female;athlete;Veneto;yes;guest
+sport_11;Alessandro Forestieri;;male;;;yes;host
+sport_12;Nicole;;female;;;yes;host
+sport_12;Ginny;;female;;;yes;host
+sport_12;Mario;;male;;;yes;host
+sci_01;Matteo Bordone;50;male;journalist;Lombardia;yes;host
+sci_01;Paolo Soda;;male;professor;;yes;guest
+sci_02;Francesco Tucci;;male;;;yes;host
+sci_03;Federica Sgorbissa;;female;journalist;;yes;host
+sci_04;Gianluigi Marsibilio;;male;social media editor;;yes;host
+sci_04;Federica Cagnoli;;female;sociologist;;yes;guest
+sci_05;Andrea Vico;;male;journalist;Piemonte;yes;host
+sci_05;Leonardo Maccari;;male;writer;;yes;host
+sci_06;Gaia;;female;student;;yes;host
+sci_06;Sebastiano;;male;student;;yes;host
+sci_06;Renato Colucci;;male;professor;;yes;guest
+sci_07;Massimo Polidoro;56;male;journalist;Lombardia;yes;host
+sci_07;Ersilia Vaudo;62;female;astophisicist;;yes;guest
+sci_08;Fjona Cakalli;39;female;journalist;Albania;yes;host
+sci_09;Virginia Benzi;28;female;content creator;;yes;host
+sci_10;Gabriella Greison;48;female;science writer;Lombardia;yes;host
+sci_10;Rosa Anna Corsaro;;female;petrologist;;yes;guest
+sci_11;;;male;;;yes;host
+sci_11;;;male;;;yes;host
+sci_12;Andrea Delogu;39;female;tv host;Emilia-Romagna;yes;host
+sci_12;Marica Branchesi;44;female;astophisicist;Marche;yes;guest
+heal_01;Silvia Goggi;;female;doctor;;yes;host
+heal_02;Laura Crugnola;29;female;biologist;Emilia-Romagna;yes;host
+heal_02;Franca Molluzzo;34;female;personal trainer;Lombardia;yes;guest
+heal_03;Vanessa Bertinotti;51;female;biohacker;Svizzera;yes;host
+heal_03;Michele Montagna;;male;kinesiologist;;yes;guest
+heal_04;Alice Cattelan;;female;;;yes;host
+heal_04;Federica Carbone;;female;popularizer;;yes;guest
+heal_04;Massimo Morgione;;male;psychologist;;yes;guest
+heal_05;Beatrice Ferraresi;;female;neuroscientist;;yes;host
+heal_06;;;;;;;
+heal_07;Paolo Sarteschi;;male;nurse;;yes;host
+heal_08;Mary Cacciola;55;female;radio host;Calabria;yes;host
+heal_08;Ettore Giovanni Basso;;male;doctor;;yes;guest
+heal_09;Andrea Brignoli;;male;doctor;;yes;host
+heal_10;Guglielmo Pezzillo;;male;psychologist;;yes;host
+heal_11;Eleonora Gorla;;female;biologist;;yes;host
+heal_12;Roberta Rubboli;;female;psychotherapist;;yes;host
+heal_13;Elena Casiraghi;42;female;author;;yes;host
+heal_13;Alessandra Patitucci;42;female;radio host;;yes;host
